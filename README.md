@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi <span class="wave">👋</span> . I'm Parnia Mohammadi
+<a href="URL_REDIRECT" target="blank"><img align="right" src="./src/woman.png" height="250" /></a>
+<p style="text-align:justify;">a front end developer with over 2 years of self experience in coding. My passion for programming has led me to constantly seek out new challenges and opportunities to learn. I'm highly motivated by problem solving and enjoy tackling complex issues.</p>
+<h3>✨ about me :</h3>
+<ul>
+  <li> 🌏 I'm based in Iran-Karaj</li>
+  <li> 🤝 I'm open to collaabrating on front-end develpoment projects all around the world</li>
+  <li> 😄 Pronouns: hardworker, eager to learn, love coding, with a collaborative spirit</li>
+  <li> 🌱 I’m currently learning : Next.js</li>
+</ul>
 
 <!--
 **Parnia-mohammadi/Parnia-mohammadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
