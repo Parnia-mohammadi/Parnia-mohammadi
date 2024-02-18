@@ -23,7 +23,7 @@
 <p>
   <a href="https://www.linkedin.com/in/parnia-mohammadi-1a7552227"><img src="./src/linkedin.png" width="40"/></a><a href="mailto:parniiiiia.mohammadi@gmail.com"><img src="./src/gmail.png" width="40"/></a><a href="https://t.me/Parnia_mohammadi"><img src="./src/telegram.png" width="40"/></a></p>
 <h1>My Stats :</h1>
-<p><img src="https://github-readme-stats.vercel.app/api?username=Parnia-mohammadi&show_icons=true&theme=merko" alt="GitHub"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Parnia-mohammadi&show_icons=true&theme=highcontrast" alt="GitHub"/></p>
 <p><img align="right" src="https://streak-stats.demolab.com?user=Parnia-mohammadi&theme=yellowdark" alt="GitHub Streak" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parnia-mohammadi&layout=compact"/></p>
 <!--
