@@ -1,5 +1,8 @@
-### Hi <span class="wave">👋</span> . I'm Parnia Mohammadi
-<a href="URL_REDIRECT" target="blank"><img align="right" src="./src/woman.png" height="250" /></a>
+<p align=center><img src="./src/glass.gif"/></p>
+<h2 align=center >Hi
+<span class="wave">👋</span>
+I'm Parnia Mohammadi</h2>
+<p><img align="right" src="./src/woman.png" height="250" /></p>
 <p style="text-align:justify;">a front end developer with over 2 years of self experience in coding. My passion for programming has led me to constantly seek out new challenges and opportunities to learn. I'm highly motivated by problem solving and enjoy tackling complex issues.</p>
 <h3>✨ about me :</h3>
 <ul>
