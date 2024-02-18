@@ -1,5 +1,8 @@
 <p align=center><img src="./src/glass.gif"/></p>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Protest+Riot&size=30&duration=6000&pause=1000&color=F77A1F&random=false&width=435&lines=Hello%2C+I'm+Parnia+Mohammadi;Welcome+to+my+Github+profile" alt="Typing SVG" /></p>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Parnia-mohammadi&label=Profile%20Views&color=2&icon=5&pretty=false" />
+</p>
 <p><img align="right" src="./src/woman.png" height="250" /></p>
 <p style="text-align:justify;">a front end developer with over 2 years of self experience in coding. My passion for programming has led me to constantly seek out new challenges and opportunities to learn. I'm highly motivated by problem solving and enjoy tackling complex issues.</p>
 <h3>✨ about me :</h3>
