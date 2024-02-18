@@ -17,11 +17,10 @@
 </ul>
 <br/>
 <h2>My Github contributions :</h2>
-[![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)]
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parnia-mohammadi/Parnia-mohammadi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parnia-mohammadi/Parnia-mohammadi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Parnia-mohammadi/Parnia-mohammadi/output/github-contribution-grid-snake.svg">
 </picture>
 <h1>Languages and Tools :</h1>
 <p><img src="./src/react-jspng.png" width="60"/><img src="./src/tailwind.png" width="60"/><img src="./src/html.png" width="60"/><img src="./src/css.png" width="60"/><img src="./src/javascriptb.png" width="60"/>
