@@ -5,8 +5,8 @@
 </p>
 <hr/>
 <p style="text-align:justify;">a front end developer with over 2 years of self experience in coding. My passion for programming has led me to constantly seek out new challenges and opportunities to learn. I'm highly motivated by problem solving and enjoy tackling complex issues.</p>
-<p><img align="right" src="./src/woman.png" height="250" /></p>
-<h3 style="margin-left:0px">✨ about me :</h3>
+<p><img align="right" src="./src/sitter.png" height="250" /></p>
+<h3>✨ about me :</h3>
 <ul>
   <li> 🌏 I'm based in Iran-Karaj</li>
   <li> 🤝 I'm open to collaabrating on front-end develpoment projects all around the world</li>
@@ -17,8 +17,8 @@
 </ul>
 <br/>
 <h1>Languages and Tools :</h1>
-<p><img src="./src/react-jspng.png" width="80"/><img src="./src/tailwind.png" width="80"/><img src="./src/html.png" width="80"/><img src="./src/css.png" width="80"/><img src="./src/javascriptb.png" width="80"/>
-<img src="./src/git.png" width="80"/><img src="./src/github.png" width="80"/><img src="./src/vscode.png" width="80"/></p>
+<p><img src="./src/react-jspng.png" width="60"/><img src="./src/tailwind.png" width="60"/><img src="./src/html.png" width="60"/><img src="./src/css.png" width="60"/><img src="./src/javascriptb.png" width="60"/>
+<img src="./src/git.png" width="60"/><img src="./src/github.png" width="60"/><img src="./src/vscode.png" width="60"/></p>
 <h1>Connect with me :</h1>
 <p>
   <a href="https://www.linkedin.com/in/parnia-mohammadi-1a7552227"><img src="./src/linkedin.png" width="40"/></a><a href="mailto:parniiiiia.mohammadi@gmail.com"><img src="./src/gmail.png" width="40"/></a><a href="https://t.me/Parnia_mohammadi"><img src="./src/telegram.png" width="40"/></a></p>
