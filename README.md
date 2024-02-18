@@ -16,6 +16,9 @@
 <li> 🌱 I’m currently learning : Next.js</li>
 <li>  💬 Ask me about : React.js, Tailwind CSS, JavaScript, CSS, Html, git & github</li>
 </ul>
+<p>Languages and Tools</p>
+<a></a>
+<a></a>
 <!--
 **Parnia-mohammadi/Parnia-mohammadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
