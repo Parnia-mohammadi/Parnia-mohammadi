@@ -6,14 +6,14 @@
 <hr/>
 <p style="text-align:justify;">a front end developer with over 2 years of self experience in coding. My passion for programming has led me to constantly seek out new challenges and opportunities to learn. I'm highly motivated by problem solving and enjoy tackling complex issues.</p>
 <p><img align="right" src="./src/woman.png" height="250" /></p>
+<h3 style="margin-left:0px">✨ about me :</h3>
 <ul>
-<h3>✨ about me :</h3>
-<li> 🌏 I'm based in Iran-Karaj</li>
-<li> 🤝 I'm open to collaabrating on front-end develpoment projects all around the world</li>
-<li> 📫 How to reach me : <a href="mailto:parniiiiia.mohammadi@gmail.com">parniiiiia.mohammadi@gmail.com</a></li>
-<li> 😄 Pronouns: hardworker, eager to learn, love coding, with a collaborative spirit</li>
-<li> 🌱 I’m currently learning : Next.js</li>
-<li>  💬 Ask me about : React.js, Tailwind CSS, JavaScript, CSS, Html, git & github</li>
+  <li> 🌏 I'm based in Iran-Karaj</li>
+  <li> 🤝 I'm open to collaabrating on front-end develpoment projects all around the world</li>
+  <li> 📫 How to reach me : <a href="mailto:parniiiiia.mohammadi@gmail.com">parniiiiia.mohammadi@gmail.com</a></li>
+  <li> 😄 Pronouns: hardworker, eager to learn, love coding, with a collaborative spirit</li>
+  <li> 🌱 I’m currently learning : Next.js</li>
+  <li>  💬 Ask me about : React.js, Tailwind CSS, JavaScript, CSS, Html, git & github</li>
 </ul>
 <br/>
 <h1>Languages and Tools :</h1>
