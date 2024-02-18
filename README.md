@@ -16,6 +16,8 @@
   <li>  💬 Ask me about : React.js, Tailwind CSS, JavaScript, CSS, Html, git & github</li>
 </ul>
 <br/>
+<h2>My Github contributions :</h2>
+<p><img src="https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg" alt="snake animation"/></p>
 <h1>Languages and Tools :</h1>
 <p><img src="./src/react-jspng.png" width="60"/><img src="./src/tailwind.png" width="60"/><img src="./src/html.png" width="60"/><img src="./src/css.png" width="60"/><img src="./src/javascriptb.png" width="60"/>
 <img src="./src/git.png" width="60"/><img src="./src/github.png" width="60"/><img src="./src/vscode.png" width="60"/></p>
