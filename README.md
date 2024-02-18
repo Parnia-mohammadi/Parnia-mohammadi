@@ -25,7 +25,6 @@
 <h1>My Stats :</h1>
 <p><img src="https://github-readme-stats.vercel.app/api?username=Parnia-mohammadi&show_icons=true&theme=merko" alt="GitHub"/></p>
 <p><img align="right" src="https://streak-stats.demolab.com?user=Parnia-mohammadi&theme=yellowdark" alt="GitHub Streak" /></p>
-<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parnia-mohammadi&layout=compact"/></p>
 <!--
 **Parnia-mohammadi/Parnia-mohammadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
