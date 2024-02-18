@@ -16,9 +16,9 @@
 <li>  💬 Ask me about : React.js, Tailwind CSS, JavaScript, CSS, Html, git & github</li>
 </ul>
 <br/>
-<h1>Languages and Tools</h1>
-<img src="./src/react-jspng.png"/><img src="./src/tailwind.png"/><img src="./src/html.png"/><img src="./src/css.png"/><img src="./src/javascriptb.png"/>
-<img src="./src/git.png"/><img src="./src/github.png"/><img src="./src/vscode.png"/>
+<h1>Languages and Tools :</h1>
+<p><img src="./src/react-jspng.png" width="80"/><img src="./src/tailwind.png" width="80"/><img src="./src/html.png" width="80"/><img src="./src/css.png" width="80"/><img src="./src/javascriptb.png" width="80"/>
+<img src="./src/git.png" width="80"/><img src="./src/github.png" width="80"/><img src="./src/vscode.png" width="80"/></p>
 <!--
 **Parnia-mohammadi/Parnia-mohammadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
