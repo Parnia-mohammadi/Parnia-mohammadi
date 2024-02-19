@@ -16,7 +16,7 @@
   <li>  💬 Ask me about : React.js, Tailwind CSS, JavaScript, CSS, Html, git & github</li>
 </ul>
 <br/>
-<h2>My Github contributions :</h2>
+<h1>My Github contributions :</h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parnia-mohammadi/Parnia-mohammadi/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parnia-mohammadi/Parnia-mohammadi/output/github-contribution-grid-snake.svg">
