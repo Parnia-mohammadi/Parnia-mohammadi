@@ -23,7 +23,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Parnia-mohammadi/Parnia-mohammadi/output/github-contribution-grid-snake.svg">
 </picture>
 <h1>Languages and Tools :</h1>
-<p><img src="./src/react-jspng.png" width="60"/><img src="./src/tailwind.png" width="60"/><img src="./src/html.png" width="60"/><img src="./src/css.png" width="60"/><img src="./src/javascriptb.png" width="60"/>
+<p><img src="./src/react-jspng.png" width="60"/><img src="./src/redux-48.png" width="55"/><img src="./src/tailwind.png" width="60"/><img src="./src/html.png" width="60"/><img src="./src/css.png" width="60"/><img src="./src/javascriptb.png" width="60"/>
 <img src="./src/git.png" width="60"/><img src="./src/github.png" width="60"/><img src="./src/vscode.png" width="60"/></p>
 <h1>Connect with me :</h1>
 <p>
