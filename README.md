@@ -12,7 +12,7 @@
   <li> 🤝 I'm open to collaabrating on front-end develpoment projects all around the world</li>
   <li> 📫 How to reach me : <a href="mailto:parniiiiia.mohammadi@gmail.com">parniiiiia.mohammadi@gmail.com</a></li>
   <li> 😄 Pronouns: hardworker, eager to learn, love coding, with a collaborative spirit</li>
-  <li> 🌱 I’m currently learning : Next.js</li>
+  <li> 🌱 I’m currently learning : Next.js and Material UI</li>
   <li>  💬 Ask me about : React.js, Tailwind CSS, JavaScript, CSS, Html, git & github</li>
 </ul>
 <br/>
