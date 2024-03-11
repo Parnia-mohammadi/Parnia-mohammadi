@@ -13,7 +13,7 @@
   <li> 📫 How to reach me : <a href="mailto:parniiiiia.mohammadi@gmail.com">parniiiiia.mohammadi@gmail.com</a></li>
   <li> 😄 Pronouns: hardworker, eager to learn, love coding, with a collaborative spirit</li>
   <li> 🌱 I’m currently learning : Next.js and Material UI</li>
-  <li>  💬 Ask me about : React.js, Tailwind CSS, JavaScript, CSS, Html, git & github</li>
+  <li>  💬 Ask me about : React.js, Redux, Tailwind CSS, JavaScript, CSS, Html, git & github</li>
 </ul>
 <br/>
 <h1>My Github contributions :</h1>
@@ -23,7 +23,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Parnia-mohammadi/Parnia-mohammadi/output/github-contribution-grid-snake.svg">
 </picture>
 <h1>Languages and Tools :</h1>
-<p><img src="./src/react-jspng.png" width="60"/><img src="./src/tailwind.png" width="60"/><img src="./src/html.png" width="60"/><img src="./src/css.png" width="60"/><img src="./src/javascriptb.png" width="60"/>
+<p><img src="./src/react-jspng.png" width="60"/><img src="./src/redux-48.png" width="53"/> <img src="./src/tailwind.png" width="60"/><img src="./src/html.png" width="60"/><img src="./src/css.png" width="60"/><img src="./src/javascriptb.png" width="60"/>
 <img src="./src/git.png" width="60"/><img src="./src/github.png" width="60"/><img src="./src/vscode.png" width="60"/></p>
 <h1>Connect with me :</h1>
 <p>
