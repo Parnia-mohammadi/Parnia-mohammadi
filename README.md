@@ -14,7 +14,7 @@
   <li> 😄 Pronouns: hardworker, eager to learn, love coding, with a collaborative spirit</li>
   <li> 🌱 I’m currently learning : Next.js and Material UI</li>
   <li>  💬 Ask me about : React.js, Redux, Tailwind CSS, JavaScript, CSS, Html, git & github</li>
-  <li> 💬 see my resume <a href="">here</a></li>
+  <li> 💬 see my resume <a href="https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav#overlay_document-preview-0">here</a></li>
 </ul>
 <br/>
 <h1>My Github contributions :</h1>
