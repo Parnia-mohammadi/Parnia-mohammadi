@@ -14,6 +14,7 @@
   <li> 😄 Pronouns: hardworker, eager to learn, love coding, with a collaborative spirit</li>
   <li> 🌱 I’m currently learning : Next.js and Material UI</li>
   <li>  💬 Ask me about : React.js, Redux, Tailwind CSS, JavaScript, CSS, Html, git & github</li>
+  <li> 💬 see my resume <a href="https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav#overlay_document-preview-0">here</a></li>
 </ul>
 <br/>
 <h1>My Github contributions :</h1>
@@ -24,7 +25,7 @@
 </picture>
 <h1>Languages and Tools :</h1>
 <p><img src="./src/react-jspng.png" width="60"/><img src="./src/redux-48.png" width="53"/> <img src="./src/tailwind.png" width="60"/><img src="./src/html.png" width="60"/><img src="./src/css.png" width="60"/><img src="./src/javascriptb.png" width="60"/>
-<img src="./src/git.png" width="60"/><img src="./src/github.png" width="60"/><img src="./src/vscode.png" width="60"/></p>
+<img src="./src/git.png" width="60"/><img src="./src/github.png" width="60"/><img src="./src/vscode.png" width="60"/><img src="./src/vite-logo.png" width="56"/><img src="" width="60"/></p>
 <h1>Connect with me :</h1>
 <p>
   <a href="https://www.linkedin.com/in/parnia-mohammadi-1a7552227"><img src="./src/linkedin.png" width="40"/></a><a href="mailto:parniiiiia.mohammadi@gmail.com"><img src="./src/gmail.png" width="40"/></a><a href="https://t.me/Parnia_mohammadi"><img src="./src/telegram.png" width="40"/></a></p>
