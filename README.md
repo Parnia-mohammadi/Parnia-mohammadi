@@ -14,7 +14,7 @@
   <li> 😄 Pronouns: hardworker, eager to learn, love coding, with a collaborative spirit</li>
   <li> 🌱 I’m currently learning : Next.js and Material UI</li>
   <li>  💬 Ask me about : React.js, Redux, Tailwind CSS, JavaScript, CSS, Html, git & github</li>
-  <li> 💬 see my resume <a href="https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav#overlay_document-preview-0">here</a></li>
+  <li> 💬 see my resume <a href="https://mstorage2.jobinjacdn.com/records/files/uploads/documents/6fd0b27d-7e9a-45bb-a2b4-41843bf59bcf.pdf?requester=352e3233372e31352e323232&resource=753a32323033343630&from=63765f7472616e73&X-Amz-Content-Sha256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=oetSom924MQvtCRu9N6vvQ4bt8cG9HSpRnxWU756SyWy5NVt6nTpmfA9aV2b%2F20240404%2F%2Fs3%2Faws4_request&X-Amz-Date=20240404T221616Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=89cdb016eeda1d99954c6b4258e1c877595b616e87bf571a08d14073d15f3987">here</a></li>
 </ul>
 <br/>
 <h1>My Github contributions :</h1>
