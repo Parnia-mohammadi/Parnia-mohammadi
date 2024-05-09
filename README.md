@@ -43,8 +43,6 @@
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parnia-mohammadi&layout=compact&theme=highcontrast"/></p>
 <!--
-**Parnia-mohammadi/Parnia-mohammadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
