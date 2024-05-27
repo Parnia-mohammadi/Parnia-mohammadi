@@ -45,7 +45,7 @@
 <!--
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working
+- 🔭 I’m currently
  I’m looking to collaborate on
 - 🤔
 -->
