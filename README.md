@@ -46,6 +46,6 @@
 Here are some ideas to get you started:
 
 - 🔭
- I’m looking to collab
+ I’m looking to
 - 🤔
 -->
