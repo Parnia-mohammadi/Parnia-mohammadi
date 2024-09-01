@@ -13,8 +13,8 @@
   <li> 📫 How to reach me :<a href="mailto:parniiiiia.mohammadi@gmail.com">parniiiiia.mohammadi@gmail.com</a></li>
   <li> 😄 Pronouns: hardworker, eager to learn, love coding, with a collaborative spirit</li>
   <li> 🌱 I’m currently learning : asp.net core</li>
-  <li>  💬 Ask me about : React.js, Redux, Tailwind CSS, MUI, JavaScript, CSS, Html, git & github</li>
-  <li> ⚡ see my resume <a href="https://mstorage2.jobinjacdn.com/records/files/uploads/documents/6fd0b27d-7e9a-45bb-a2b4-41843bf59bcf.pdf?requester=352e3233372e352e313238&resource=753a32323033343630&from=63765f7472616e73&X-Amz-Content-Sha256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=oetSom924MQvtCRu9N6vvQ4bt8cG9HSpRnxWU756SyWy5NVt6nTpmfA9aV2b%2F20240414%2F%2Fs3%2Faws4_request&X-Amz-Date=20240414T122425Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=35baf8737a5f22aa8889aa43b004febeb6b93accaf8c0059f2a656a6c1e6da6b">here</a></li>
+  <li>  💬 Ask me about : React.js, Redux, Tailwind CSS, MUI, TypeScript, JavaScript, CSS, Html, git & github</li>
+  <li> ⚡ see my resume <a href="https://mstorage2.jobinjacdn.com/records/files/uploads/documents/362d5c09-05f5-4cd8-ad4f-5de0f2b7c213.pdf?requester=352e3233372e392e323336&resource=753a32323033343630&from=63765f7472616e73&X-Amz-Content-Sha256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=oetSom924MQvtCRu9N6vvQ4bt8cG9HSpRnxWU756SyWy5NVt6nTpmfA9aV2b%2F20240901%2F%2Fs3%2Faws4_request&X-Amz-Date=20240901T124548Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=de8b294f6f7502af8e1e406a5dfe65dcb0bff1f21856d0ce7d15b7f568c69b7a">here</a></li>
 </ul>
 <br/>
 <h1>My Github contributions :</h1>
