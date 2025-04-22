@@ -14,7 +14,7 @@
   <li> 😄 Pronouns: hardworker, eager to learn, love coding, with a collaborative spirit</li>
   <li> 🌱 I’m currently learning : asp.net core</li>
   <li>  💬 Ask me about : Next.js, React.js, Redux, React-hook-form, React-Query, Zustand, Tailwind CSS, MUI, HeroUi, TypeScript, JavaScript, CSS, Html, git & github</li>
-  <li> ⚡ see my resume <a href="https://mstorage2.jobinjacdn.com/records/files/uploads/documents/93c22fa4-f5dd-4057-9188-0910b2378d1b.pdf?requester=352e3233372e33312e323035&resource=753a32323033343630&from=63765f7472616e73&X-Amz-Content-Sha256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=oetSom924MQvtCRu9N6vvQ4bt8cG9HSpRnxWU756SyWy5NVt6nTpmfA9aV2b%2F20250422%2F%2Fs3%2Faws4_request&X-Amz-Date=20250422T084750Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=d4a907693cb7b8a714de18c068e79a530b70e8891a28f7d37791560ddb88087b">here</a></li>
+  <li> ⚡ see my resume <a href="https://mstorage2.jobinjacdn.com/records/files/uploads/documents/7d576d85-8d73-4755-8f39-17f457dbe674.pdf?requester=352e3233372e32312e3337&resource=753a32323033343630&from=63765f7472616e73&X-Amz-Content-Sha256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=oetSom924MQvtCRu9N6vvQ4bt8cG9HSpRnxWU756SyWy5NVt6nTpmfA9aV2b%2F20250422%2F%2Fs3%2Faws4_request&X-Amz-Date=20250422T154542Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=352afa1010fd22b2e407da22b2bcb6b9eebb25f62ebe6d0a107f5aba302dddd8">here</a></li>
 </ul>
 <br/>
 <h1>My Github contributions :</h1>
