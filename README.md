@@ -13,7 +13,7 @@
   <li> 📫 How to reach me :<a href="mailto:parniiiiia.mohammadi@gmail.com">parniiiiia.mohammadi@gmail.com</a></li>
   <li> 😄 Pronouns: hardworker, eager to learn, love coding, with a collaborative spirit</li>
   <li> 🌱 I’m currently learning : asp.net core</li>
-  <li>  💬 Ask me about : React.js, Redux, Tailwind CSS, MUI, TypeScript, JavaScript, CSS, Html, git & github</li>
+  <li>  💬 Ask me about : Next.js, React.js, Redux, React-hook-form, React-Query, Tailwind CSS, MUI, HeroUi, TypeScript, JavaScript, CSS, Html, git & github</li>
   <li> ⚡ see my resume <a href="https://mstorage2.jobinjacdn.com/records/files/uploads/documents/362d5c09-05f5-4cd8-ad4f-5de0f2b7c213.pdf?requester=352e3233372e392e323336&resource=753a32323033343630&from=63765f7472616e73&X-Amz-Content-Sha256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=oetSom924MQvtCRu9N6vvQ4bt8cG9HSpRnxWU756SyWy5NVt6nTpmfA9aV2b%2F20240901%2F%2Fs3%2Faws4_request&X-Amz-Date=20240901T124548Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=de8b294f6f7502af8e1e406a5dfe65dcb0bff1f21856d0ce7d15b7f568c69b7a">here</a></li>
 </ul>
 <br/>
@@ -25,7 +25,7 @@
 </picture>
 <h1>Languages and Tools :</h1>
 <p><img src="./src/react-jspng.png" width="60"/><img src="./src/redux-48.png" width="53"/><img src="./src/typescript.png" width="60"/><img src="./src/javascriptb.png" width="60"/><img src="./src/tailwind.png" width="60"/><img src="./src/MUI.png" width="50"/><img src="./src/html.png" width="60"/><img src="./src/css.png" width="60"/>
-<img src="./src/git.png" width="60"/><img src="./src/github.png" width="60"/><img src="./src/vscode.png" width="60"/><img src="./src/vite-logo.png" width="56"/><img src="./src/logos--testing-library.svg" width="55"/><img src="./src/c sharp.png" width="60"/><img src="./src/bootstrap.png" width="60"/></p>
+<img src="./src/git.png" width="60"/><img src="./src/github.png" width="60"/><img src="./src/vscode.png" width="60"/><img src="./src/vite-logo.png" width="56"/><img src="./src/logos--testing-library.svg" width="55"/><img src="./src/c sharp.png" width="60"/><img src="./src/bootstrap.png" width="60"/><img src="./src/chartJs.png" width="60" alt="Chart.js"/><img src="./src/python.png"/></p>
 <h1>Connect with me :</h1>
 <p>
   <a href="https://www.linkedin.com/in/parnia-mohammadi-1a7552227"><img src="./src/linkedin.png" width="40"/></a><a href="mailto:parniiiiia.mohammadi@gmail.com"><img src="./src/gmail.png" width="40"/></a><a href="https://t.me/Parnia_mohammadi"><img src="./src/telegram.png" width="40"/></a></p>
@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 - 🔭
 
 - 🤔
--->
+  -->
