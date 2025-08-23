@@ -4,7 +4,7 @@
   <img src="https://visitcount.itsvg.in/api?id=Parnia-mohammadi&label=Profile%20Views&color=2&icon=5&pretty=false" />
 </p>
 <hr/>
-<p style="text-align:justify;">a front end developer with over 2 years of self experience in coding. My passion for programming has led me to constantly seek out new challenges and opportunities to learn. I'm highly motivated by problem solving and enjoy tackling complex issues.</p>
+<p style="text-align:justify;">a front end developer with over 3 years of self experience in coding. My passion for programming has led me to constantly seek out new challenges and opportunities to learn. I'm highly motivated by problem solving and enjoy tackling complex issues.</p>
 <p><img align="right" src="./src/sitter.png" height="250" /></p>
 <h3>✨ about me :</h3>
 <ul>
